@@ -234,8 +234,8 @@ function renderMainContent() {
                         </div>
                         <h6 class="text-xl font-semibold text-white">Mercabarna</h6>
                         <p class="mt-2 mb-4 text-gray-300">
-                            <span data-i18n="contact_pavilion">Pabellón</span> B<br>
-                            <span data-i18n="contact_stall">Parada</span> 1234
+                            <span data-i18n="contact_pavilion">Pabellón</span> G<br>
+                            <span data-i18n="contact_stall">Parada</span> 7048
                         </p>
                     </div>
 
